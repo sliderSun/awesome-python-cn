@@ -418,6 +418,9 @@ Python实现的数据库。
 *   [web.py](http://hao.jobbole.com/python-webpy/)：一个 Python 的 web 框架，既简单，又强大。[官网](http://webpy.org/)
 *   web2py：一个全栈 web 框架和平台，专注于简单易用。[官网](http://www.web2py.com/)
 *   [Tornado](http://hao.jobbole.com/tornado/)：一个web 框架和异步网络库。[官网](http://www.tornadoweb.org/en/latest/)
+*   [sanic](https://github.com/sliderSun/sanic)：sanic是一款用python3.5+写的基于uvloop的web framework，用法和flask类似，sanic的特点是非常快。[官网](https://sanic.readthedocs.io/en/latest/)
+*   [japronto](https://github.com/sliderSun/japronto)：Japronto 是一个全新的，为微服务量身打造的微框架。实现它的主要目标包含够快、可扩展和轻量化。的确它快的吓人，甚至远比 NodeJS 和 Go 还要快的多的多。要感谢 asyncio，让我可以同时编写同步和异步代码。[介绍](https://shaunli.com/blog/6-a-million-requests-per-second-with-python.html)
+*   [Twisted](https://github.com/twisted/twisted)：Twisted是用Python实现的基于事件驱动的网络引擎框架。[官网](https://twistedmatrix.com/trac/) [分析](http://blog.csdn.net/weixin_37947156/article/details/74378559)
 
 ### 权限
 
